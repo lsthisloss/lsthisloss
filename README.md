@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### Contact Site 📫 Using NodeJS and React  
 ⚡ That site will be used as a showcase of my work with the particular stack. It should be refactored or completly renewed by time.
 
-![](https://komarev.com/ghpvc/?username=lsthisloss&color=grey)
+![](https://komarev.com/ghpvc/?username=lsthisloss&style=for-the-badge)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
