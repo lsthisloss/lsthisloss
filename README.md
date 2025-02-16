@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 
 ## Current Project
 ### Contact Site 📫 Using NodeJS and React  
-⚡ That site will be used as a showcase of my work with the particular stack. It should be refactored or completly renewed by time.
+⚡ That site will be used as a showcase of my work with the particular stack. It should be refactored or completly renewed by time. 
 [ STAGE: 1 / ∞ ]
+
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
