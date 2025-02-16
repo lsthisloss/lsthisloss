@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=lsthisloss)
 
 <!--
 **lsthisloss/lsthisloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,16 +23,19 @@ Here are some ideas to get you started:
 ## Technical Skills
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-c%23%20-%23239120-black?style=flat-square&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ### Development
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
