@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
-![](https://api.visitorbadge.io/api/VisitorHit?user=lsthisloss&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
