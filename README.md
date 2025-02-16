@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hey there! 👋
-
+![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
 ## About Me
 👋 My name is Oleh. I'm 26, living in Ukraine and I'm a software engineer.      
 🔭 Currently, I’m improving my skills as a fullstack web developer.  
@@ -47,4 +47,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
-![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
