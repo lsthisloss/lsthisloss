@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey there! 👋
+
 ## About Me
-👋 Hi there, my name is Oleh. I'm 26, living in Ukraine and I'm a software engineer.      
+👋 My name is Oleh. I'm 26, living in Ukraine and I'm a software engineer.      
 🔭 Currently, I’m improving my skills as a fullstack web developer.  
 ⚡ Happy to learning new info and consolidating it on practice.
 
@@ -41,6 +43,7 @@ Here are some ideas to get you started:
 ### Contact Site 📫 Using NodeJS and React  
 ⚡ That site will be used as a showcase of my work with the particular stack. It should be refactored or completly renewed by time.
 
+![](https://komarev.com/ghpvc/?username=lsthisloss&color=grey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
