@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## Current Project
 ### Contact Site 📫 Using NodeJS and React  
 ⚡ This site will be used as a showcase of my work with the particular stack. Can be refactored or completly renewed by time.  
-🎯 [ STAGE: 1 / ∞ ]
+🎯 [ Stage: 1 / ∞ ]
 
 
 ##
