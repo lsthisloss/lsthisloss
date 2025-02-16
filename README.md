@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![](https://komarev.com/ghpvc/?username=lsthisloss&color=grey)  
+
 
 ## Current Project
 ### Contact Site 📫 Using NodeJS and React  
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
-![](https://komarev.com/ghpvc/?username=lsthisloss&color=grey)
+![](https://komarev.com/ghpvc/?username=lsthisloss&label=PROFILE+VIEWS)
