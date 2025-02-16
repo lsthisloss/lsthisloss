@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 ## About Me
 👋, my name is Oleh, I'm 26, living in Ukraine, and I'm a software engineer.
-
-🔭 I’m currently working on improving my skills as a fullstack web developer, learning new info and consolidating it on practice.
+🔭 Currently, I’m improving my skills as a fullstack web developer
+⚡ Happy to learning new info and consolidating it on practice
 
 ## Technical Skills
 ### Programming Languages
