@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 👋, my name is Oleh, I'm 26, living in Ukraine, and I'm a software engineer.
+
 🔭 I’m currently working on improving my skills as a fullstack web developer, learning new info and consolidating it on practice.
 
 ## Technical Skills
@@ -33,4 +34,5 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
