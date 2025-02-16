@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
