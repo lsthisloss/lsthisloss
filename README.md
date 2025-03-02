@@ -40,12 +40,10 @@ Here are some ideas to get you started:
 
 
 ## Current Project
-### Contact Site 📫 Using NodeJS and React  
-⚡ This site will be used as a showcase of my work with the particular stack. Can be refactored or completly renewed by time.  
-🎯 [ Stage: 1 / ∞ ]
+### Pixel Art 
+⚡ This is just fun project that help to create an pixeled art. Can be refactored or completly renewed by time.  
+🎯 [ Stage: 1 / 5 ]
 
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&layout=compact)](https://github.com/lsthisloss/github-readme-stats)
-
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
