@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
+![XNet](https://img.shields.io/badge/-XNet-black?style=flat-square&logo=xnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
+![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
 ## Current Project
 ### Pixel Art 
