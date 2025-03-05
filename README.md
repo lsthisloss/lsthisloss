@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
-## Current Projects
-### Pixel Art 
+### Current Projects
+## Pixel Art 
 ⚡ This is just fun project that help to create an pixeled art. Can be refactored or completly renewed by time.  
 🎯 [ Stage: 1 / 5 ]
 
