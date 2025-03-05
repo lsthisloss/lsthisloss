@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 ### My Own Contact web-site
 📫 That App must contain something special.
-
 🎯 [ Stage: 1 / 10 ]
 
 ##
