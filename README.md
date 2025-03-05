@@ -41,11 +41,15 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
-## Current Project
+## Current Projects
 ### Pixel Art 
 ⚡ This is just fun project that help to create an pixeled art. Can be refactored or completly renewed by time.  
 🎯 [ Stage: 1 / 5 ]
 
+### Contact Site
+### My Own Contact web-site
+📫 That App must contain something special.
+🎯 [ Stage: 1 / 10 ]
 
 ##
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
