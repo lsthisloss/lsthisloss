@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
 
 ### Development
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
