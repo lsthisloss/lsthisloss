@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hey there! 👋
 ![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
 ## About Me
-👨‍💻 My name is Oleh, I'm living in Ukraine and I'm a software engineer.      
+👨‍💻 I'm living in Ukraine and I'm a software engineer.      
 🔭 Currently, I’m improving my skills as a fullstack web developer.  
 
 ## Technical Skills
@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
 ## Current Projects
-### Pixel Art 
+### Token generation on js
+🦝 Token generation based on js obect and sha3 alg  
+🎯 [ Stage: in process... ]
+
+### Pixelizer
 ⚡ This is just fun project that help to create an pixeled art. Can be refactored or completly renewed by time.  
 🎯 [ Stage: 1 / 5 ]
 
