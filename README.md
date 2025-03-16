@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-lus-plus)
 
 ### Technologies
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
