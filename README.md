@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hey there! 👋
 ![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
 ## About Me
-👨‍💻 I'm living in Ukraine and I'm a software engineer.      
+👨‍💻 I'm living in Ukraine and I'm a Software Engineer.      
 
 ## Technical Skills
 ### Programming Languages
