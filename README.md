@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=microsoft)
 
 ## Current Projects
 ### Token generation from POW (Proof Of Work) algorithm on js
@@ -47,9 +49,9 @@ Here are some ideas to get you started:
 🎯 [ Stage: in process... ]
 
 ### Pixelizer
-⚡ This is just fun project that help to create an pixeled art. Can be refactored or completly renewed by time.  
+⚡ This is just fun web project that help to create an pixeled art. Can be refactored or completly renewed by time.  
 🎯 [ Stage: 1 / 5 ]
 
 ### My Own Contact web-site
-📫 That App must contain something special.  
+📫 That Web App must contain something special.  
 🎯 [ Stage: 1 / 10 ]
