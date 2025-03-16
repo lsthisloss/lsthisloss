@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 ## Technical Skills
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-lus-plus)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ### Technologies
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
