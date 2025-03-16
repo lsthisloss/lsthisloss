@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## Current Projects
 ### Token generation from POW (Proof Of Work) algorithm on js
-🦝 Solution for token generation based on js object and sha3 algorithm. 
+🦝 Solution for token generation based on js object and sha3 algorithm.       
 🎯 [ Stage: in process... ]
 
 ### Pixelizer
