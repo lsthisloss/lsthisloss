@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 ### Programming Languages
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
+![C++](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 
 ### Technologies
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
@@ -37,7 +35,9 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
 
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
