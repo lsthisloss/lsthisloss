@@ -50,6 +50,3 @@ Here are some ideas to get you started:
 ### My Own Contact web-site
 📫 That App must contain something special.  
 🎯 [ Stage: 1 / 10 ]
-
-##
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />   
