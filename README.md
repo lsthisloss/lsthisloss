@@ -26,22 +26,25 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
 
-### Development
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
-![XNet](https://img.shields.io/badge/-XNet-black?style=flat-square&logo=xnet)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+### Technologies
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=microsoft)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
+![XNet](https://img.shields.io/badge/-XNet-black?style=flat-square&logo=xnet)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat-square&logo=visualstudio)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+
 
 ## Current Projects
 ### Token generation from POW (Proof Of Work) algorithm on js
