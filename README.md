@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 
 ## Current Projects
-### Token generation on js
-🦝 Token generation based on js obect and sha3 alg  
+### Token generation from POW (Proof Of Work) algorithm on js
+🦝 Solution for token generation based on js object and sha3 algorithm. 
 🎯 [ Stage: in process... ]
 
 ### Pixelizer
