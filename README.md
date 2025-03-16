@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
 
 ### Technologies
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![XNet](https://img.shields.io/badge/-XNet-black?style=flat-square&logo=xnet)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=microsoft)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![HTTP](https://img.shields.io/badge/-HTTP-black?style=flat-square&logo=http)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-black?style=flat-square&logo=puppeteer)
-![XNet](https://img.shields.io/badge/-XNet-black?style=flat-square&logo=xnet)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 
 ### Development Tools
