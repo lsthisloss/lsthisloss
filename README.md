@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hey there! 👋
-![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
   
 ```csharp
 public class lsthisloss
@@ -71,3 +70,5 @@ class Program
 ### My Own Contact web-site
 📫 That Web App must contain something special.  
 🎯 [ Stage: 0.1 / 10 ]
+
+![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
