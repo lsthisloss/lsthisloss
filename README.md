@@ -27,7 +27,6 @@ public class lsthisloss
     public List<string> SolvedTasks { get; private set; }
     public string Learning { get; private set; }
     public string WhatILike { get; private set; }
-    public string MyTools { get; private set; }
 
     public lsthisloss()
     {
