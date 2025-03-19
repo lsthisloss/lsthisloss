@@ -22,7 +22,7 @@ public class lsthisloss
     public string Name { get; private set; }
     public int Age { get; private set; }
     public string Country { get; private set; }
-    public string Contact { get; private set; }
+    public string ContactEmail { get; private set; }
     public List<string> Languages { get; private set; }
     public List<string> SolvedTasks { get; private set; }
     public string Learning { get; private set; }
@@ -34,7 +34,7 @@ public class lsthisloss
         Name = "Oleh";
         Age = 26;
         Country = "Ukraine";
-        Contact = "conorswipe@gmail.com";
+        ContactEmail = "conorswipe@gmail.com";
         Languages = new List<string>
         {
             "CSharp",
