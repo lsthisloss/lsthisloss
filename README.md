@@ -34,7 +34,7 @@ public class lsthisloss
         Name = "Oleh";
         Age = 26;
         Country = "Ukraine";
-        Contact = "privacy";
+        Contact = "conorswipe@gmail.com";
         Languages = new List<string>
         {
             "CSharp",
