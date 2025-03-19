@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 📫 That Web App must contain something special.  
 🎯 [ Stage: 1 / 10 ]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&hide=jupyter%20notebook&bg_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&hide=jupyter%20notebook&layout=compact&bg_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats)
