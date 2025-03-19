@@ -52,10 +52,7 @@ Here are some ideas to get you started:
 🦝 Solution for token generation based on js object and sha3 algorithm.       
 🎯 [ Stage: in process... ]
 
-### Pixelizer
-⚡ This is just fun web project that help to create an pixeled art. Can be refactored or completly renewed by time.  
-🎯 [ Stage: 1 / 5 ]
 
 ### My Own Contact web-site
 📫 That Web App must contain something special.  
-🎯 [ Stage: 1 / 10 ]
+🎯 [ Stage: 0.1 / 10 ]
