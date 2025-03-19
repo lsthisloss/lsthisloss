@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ```csharp
 public class lsthisloss
 {
-    // For any captcha related inquiries feel free to contact me via telegram
     public string Name { get; private set; }
     public int Age { get; private set; }
     public string Contact { get; private set; }
