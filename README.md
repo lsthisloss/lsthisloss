@@ -17,6 +17,47 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/lsthisloss/count.svg)
 ## About Me
 👨‍💻 I'm living in Ukraine and I'm a Software Engineer.      
+```csharp
+public class lsthisloss
+{
+    // For any captcha related inquiries feel free to contact me via telegram
+    public string Name { get; private set; }
+    public int Age { get; private set; }
+    public string Contact { get; private set; }
+    public List<string> Languages { get; private set; }
+    public List<string> Reversed { get; private set; }
+    public string Learning { get; private set; }
+    public string WhatILike { get; private set; }
+
+    public lsthisloss()
+    {
+        Name = "Oleh";
+        Age = 26;
+        Contact = "privacy";
+        Languages = new List<string>
+        {
+            "CSharp",
+            "Javascript",
+            "C++",
+        };
+        Solved = new List<string>
+        {
+            "Alot of parsers",
+            "rest apis",
+            "etc..."
+        };
+        Learning = "Web developing. Some of reverse Engineering";
+        WhatILike = "Donuts and be a human."
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        var me = new lsthisloss(); // ._.
+    }
+}
+```
 
 ## Technical Skills
 ### Programming Languages
