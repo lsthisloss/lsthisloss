@@ -46,7 +46,7 @@ public class lsthisloss
             "Alot of parsers",
             "rest apis",
             "web crud robust apps",
-            "win-ui apps",
+            "win apps",
             "etc..."
         };
         Learning = "Desktop developing. Web developing. Some of reverse Engineering";
