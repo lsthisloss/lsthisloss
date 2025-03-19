@@ -59,3 +59,5 @@ Here are some ideas to get you started:
 ### My Own Contact web-site
 📫 That Web App must contain something special.  
 🎯 [ Stage: 1 / 10 ]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsthisloss&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
