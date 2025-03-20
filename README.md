@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   
 ```c++
 class IsthisLoss {
-private: // some vars here
 public:
     IsthisLoss() : 
         name("Oleh"),
