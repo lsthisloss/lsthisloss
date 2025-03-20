@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ## Hey there! 👋
   
 ```c++
-#include <string>
-#include <vector>
-
 class IsthisLoss {
 private: // some vars here
 public:
