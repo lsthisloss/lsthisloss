@@ -15,48 +15,43 @@ Here are some ideas to get you started:
 -->
 ## Hey there! 👋
   
-```csharp
-public class lsthisloss
-{
-    public string Name { get; private set; }
-    public int Age { get; private set; }
-    public string Country { get; private set; }
-    public string ContactEmail { get; private set; }
-    public List<string> Languages { get; private set; }
-    public List<string> SolvedTasks { get; private set; }
-    public string Learning { get; private set; }
-    public string WhatILike { get; private set; }
+```csplusplus
+#include <string>
+#include <vector>
 
-    public lsthisloss()
+class LsthisLoss {
+private:
+    string name;
+    int age;
+    string country;
+    string contactEmail;
+    vector<string> languages;
+    vector<string> solvedTasks;
+    string learning;
+    string whatILike;
+public:
+    LsthisLoss() : 
+        name("Oleh"),
+        age(26),
+        country("Ukraine"),
+        contactEmail("conorswipe@gmail.com")
     {
-        Name = "Oleh";
-        Age = 26;
-        Country = "Ukraine";
-        ContactEmail = "conorswipe@gmail.com";
-        Languages = new List<string>
-        {
-            "CSharp",
-            "Javascript",
-            "C++",
-        };
-        SolvedTasks = new List<string>
-        {
+        languages = {"C#", "Javascript", "C++"};
+        solvedTasks = {
             "Alot of parsers",
             "rest apis",
             "web crud robust apps",
             "win apps",
             "etc..."
         };
-        Learning = "Desktop developing. Web developing. Some of reverse Engineering";
-        WhatILike = "Donuts and be a human."
+        learning = "Desktop developing. Web developing. Some of reverse Engineering";
+        whatILike = "Donuts.";
     }
-}
-class Program
-{
-    static void Main(string[] args)
-    {
-        var me = new lsthisloss(); // ._.
-    }
+};
+
+int main() {
+    LsthisLoss me; // ._.
+    return 0;
 }
 ```
 
