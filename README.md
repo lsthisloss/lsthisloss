@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 #include <string>
 #include <vector>
 
-class LsthisLoss {
+class IsthisLoss {
 private: // some vars here
 public:
-    LsthisLoss() : 
+    IsthisLoss() : 
         name("Oleh"),
         age(26),
         country("Ukraine"),
@@ -42,7 +42,7 @@ public:
 };
 
 int main() {
-    LsthisLoss me; // ._.
+    IsthisLoss me; // ._.
     return 0;
 }
 ```
