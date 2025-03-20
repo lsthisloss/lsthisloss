@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 #include <vector>
 
 class LsthisLoss {
-private:
-    string name;
-    int age;
-    string country;
-    string contactEmail;
-    vector<string> languages;
-    vector<string> solvedTasks;
-    string learning;
-    string whatILike;
+private: // some vars here
 public:
     LsthisLoss() : 
         name("Oleh"),
