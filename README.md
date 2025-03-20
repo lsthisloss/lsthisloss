@@ -31,7 +31,7 @@ public:
             "parsers", "rest apis", "web crud robust apps", "win apps"
         };
         learning = "Desktop/Web developing. Trying some of reverse eng";
-        whatILike = "Donuts.";
+        whatILike = "Donuts";
     }
 };
 
