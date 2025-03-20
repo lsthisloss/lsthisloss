@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hey there! 👋
   
-```csplusplus
+```c++
 #include <string>
 #include <vector>
 
