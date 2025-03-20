@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 class IsthisLoss {
 public:
     IsthisLoss() : 
-        name("Oleh"),
+        firstname("Oleh"),
         age(26),
         country("Ukraine"),
     {
