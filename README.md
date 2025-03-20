@@ -23,17 +23,14 @@ public:
         name("Oleh"),
         age(26),
         country("Ukraine"),
-        contactEmail("conorswipe@gmail.com")
     {
-        languages = {"C#", "Javascript", "C++"};
-        solvedTasks = {
-            "parsers",
-            "rest apis",
-            "web crud robust apps",
-            "win apps",
-            "etc..."
+        languages = {
+          "C#", "Javascript", "C++"
         };
-        learning = "Desktop developing. Web developing. Some of reverse Engineering";
+        solvedTasks = {
+            "parsers", "rest apis", "web crud robust apps", "win apps"
+        };
+        learning = "Desktop/Web developing. Trying some of reverse eng";
         whatILike = "Donuts.";
     }
 };
