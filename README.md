@@ -27,7 +27,7 @@ public:
     {
         languages = {"C#", "Javascript", "C++"};
         solvedTasks = {
-            "Alot of parsers",
+            "parsers",
             "rest apis",
             "web crud robust apps",
             "win apps",
