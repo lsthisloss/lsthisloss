@@ -27,9 +27,12 @@ public:
           "C#", "Javascript", "C++"
         };
         solvedTasks = {
-            "parsers", "rest apis", "web crud robust apps", "win apps"
+            "parsers",  
+            "rest apis", 
+            "web crud robust apps", 
+            "win apps"
         };
-        learning = "Desktop/Web developing. Trying some of reverse eng";
+        learning = "new. also reverse eng";
         whatILike = "Donuts";
     }
 };
