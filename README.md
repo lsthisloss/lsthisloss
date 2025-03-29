@@ -24,7 +24,7 @@ public:
         country("Ukraine"),
     {
         languages = {
-          "C#", "Javascript", "C++"
+          "C#", "Javascript", "TypeScript", "C++"
         };
         solvedTasks = {
             "parsers",  
