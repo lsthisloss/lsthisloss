@@ -32,7 +32,7 @@ public:
             "web crud robust apps", 
             "win apps"
         };
-        learning = "new. also reverse eng";
+        learning = "reverse eng";
         whatILike = "Donuts";
     }
 };
