@@ -33,7 +33,7 @@ public:
             "win apps"
         };
         learning = "reverse eng";
-        whatILike = "Donuts";
+        whatILike = "donuts";
     }
 };
 
