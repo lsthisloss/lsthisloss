@@ -43,14 +43,15 @@
 🖥 **Backend**
 
 - NodeJS, TypeScript, JavaScript
-- Express/Nest/Laravel
+- Express/Nest
 - Postgres, pocketbase
+- RabbitMQ, ElasticSearch
 
 🖼️ **Frontend**
 
 - React, MobX, Redux
 - SPA, SSR
-- Bootstrap, scss, tailwind
+- Ant UI, scss
 
 📁 **DevOps, etc**
 
