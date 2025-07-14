@@ -10,11 +10,11 @@
 </div>
 <div align='center'>		
 
-✔ Proficient in Web Development (React/Nest/Laravel)
+✔ Proficient in Web Development (React/Nest)
 </div>    
 <div align='center'>		
 	
-✔ Windows native apps (C#/C++) 
+✔ Hands-on Windows native apps (C#/C++) 
 </div>     
    
 <div align='center'>		
@@ -33,12 +33,6 @@
 <br>
 <br>  
 
-🧙‍ **Core Skills**     
-
-- **Strong** JS, TS async code, patterns, event loop
-- **Strong** C# .Net, WPF, multithreading
-- Good C++ STL, WinAPI, performance
-- Good Python sklearn, matplot
 
 🖥 **Backend**
 
@@ -55,10 +49,8 @@
 
 📁 **DevOps, etc**
 
-- **Docker**, **Git**, Swagger
-- Postman, Fiddler
-- Figma, Jira, ESlint, Ubuntu
-- Agile, development workflow, CI/CD
+- Docker, Git, Swagger
+- Postman, Fiddler, Charles
 
 <img src="https://github.com/user-attachments/assets/9ecfe624-51a5-4936-a0f6-10f8204ec03f" style="width: 775px; height: 40px; max-width: 100%;">
 
