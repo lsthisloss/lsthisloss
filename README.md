@@ -60,7 +60,6 @@
 	
 ![goku](https://github.com/user-attachments/assets/0d03a1ed-db86-473d-b96a-87348c4c4fdc)
 
-
 </td>
 </tr>
 
